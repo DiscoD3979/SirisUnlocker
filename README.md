@@ -81,11 +81,4 @@
 ![Windows API](https://img.shields.io/badge/WinAPI-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 📥 Быстрый старт (для разработчиков)
-
-1. **Клонируйте репозиторий**  
-   ```bash
-   git clone https://github.com/DiscoD3979/Siris-Unlocker.git
-   cd Siris-Unlocker
+Бай бай
